@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "995789995686",
+    "project_id": "sysol-34a39",
+    "storage_bucket": "sysol-34a39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995789995686:android:b539978947a1b7c88dfe67",
+        "android_client_info": {
+          "package_name": "com.example.sysol_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995789995686-d1b5fo5mshjlbchh99gf530eehlgbkfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sysol_test",
+            "certificate_hash": "a334dc6f9c6b4be3da03008f25e28258c1da1743"
+          }
+        },
+        {
+          "client_id": "995789995686-u6t5lc72aj8qemmu79mrduj1ohlccpsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOlLMBaZf0J8u7F_ctEvhvYIWxX0fIXBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995789995686-1ujbvvcdmo4utnfa12pvd8f3115dikck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
